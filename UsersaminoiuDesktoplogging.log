@@ -1,0 +1,25 @@
+INFO main mysql.example.DatabaseExample - Employee: Empl2 14.0 2
+INFO main mysql.example.DatabaseExample - Department: Production
+INFO main mysql.example.DatabaseExample - The id of employee added: 14 
+INFO main mysql.example.DatabaseExample - The number of rows deleted: 0
+INFO main mysql.example.DatabaseExample - The number of rows updated: 1
+INFO main mysql.example.DatabaseExample - Employee: Empl2 14.0 2
+INFO main mysql.example.DatabaseExample - Department: Production
+INFO main mysql.example.DatabaseExample - The id of employee added: 15 
+INFO main mysql.example.DatabaseExample - The number of rows deleted: 0
+INFO main mysql.example.DatabaseExample - The number of rows updated: 1
+INFO main mysql.example.DatabaseExample - Employee: Empl2 14.0 2
+INFO main mysql.example.DatabaseExample - Department: Production
+INFO main mysql.example.DatabaseExample - The id of employee added: 16 
+INFO main mysql.example.DatabaseExample - The number of rows deleted: 0
+INFO main mysql.example.DatabaseExample - The number of rows updated: 1
+INFO main mysql.example.DatabaseExample - Employee: Empl2 14.0 2
+INFO main mysql.example.DatabaseExample - Department: Production
+INFO main mysql.example.DatabaseExample - The id of employee added: 17 
+INFO main mysql.example.DatabaseExample - The number of rows deleted: 0
+INFO main mysql.example.DatabaseExample - The number of rows updated: 1
+INFO main mysql.example.DatabaseExample - Employee: Empl2 14.0 2
+INFO main mysql.example.DatabaseExample - Department: Production
+INFO main mysql.example.DatabaseExample - The id of employee added: 18 
+INFO main mysql.example.DatabaseExample - The number of rows deleted: 0
+INFO main mysql.example.DatabaseExample - The number of rows updated: 1
